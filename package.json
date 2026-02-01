@@ -1,0 +1,25 @@
+{
+  "name": "persn",
+  "version": "1.0.1",
+  "description": "npx card for persn",
+  "type": "module",
+  "bin": {
+    "persn": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "card",
+    "about",
+    "profile",
+    "npx"
+  ],
+  "author": "persn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spjoes/persn"
+  },
+  "homepage": "https://github.com/spjoes"
+}
