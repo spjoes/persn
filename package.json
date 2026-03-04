@@ -1,6 +1,6 @@
 {
   "name": "persn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "npx card for persn",
   "type": "module",
   "bin": {
