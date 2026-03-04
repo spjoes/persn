@@ -14,8 +14,7 @@ console.log(bold(green("  ══════════════════
 console.log();
 console.log("     " + bold(white("👋 Hi, I'm")) + " " + bold(green("Joey")) + bold(white(" (or ")) + bold(green("IAmThePerson")) + bold(white("/")) + bold(green("persn")) + bold(white(" online)")));
 console.log();
-console.log("     " + dim(white("Software Engineering student at SJSU building apps with JavaScript, Swift, and Go")));
-console.log("     " + dim(white("(I use " + blue("NixOS") + dim(white(" btw)")))));
+console.log("     " + dim(white("Software Engineering student at SJSU building apps & websites with JavaScript, Swift, and Go")));
 console.log();
 console.log("     🌐  " + link(cyan("github.com/spjoes"), "https://github.com/spjoes"));
 console.log("     🌐  " + link(cyan("persn.dev"), "https://persn.dev"));
